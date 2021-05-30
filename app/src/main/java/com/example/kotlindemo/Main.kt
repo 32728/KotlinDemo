@@ -1,5 +1,5 @@
 package com.example.kotlindemo
 
 fun main() {
-    print("hello Kotlin")
+    print("this is my first program")
 }
