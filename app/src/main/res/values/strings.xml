@@ -13,4 +13,14 @@
         <item>*</item>
         <item>/</item>
     </string-array>
+
+    <string-array name="days">
+        <item>monday</item>
+        <item>tuesday</item>
+        <item>wednesday</item>
+        <item>thursday</item>
+        <item>friday</item>
+        <item>saturday</item>
+        <item>sunday</item>
+    </string-array>
 </resources>
